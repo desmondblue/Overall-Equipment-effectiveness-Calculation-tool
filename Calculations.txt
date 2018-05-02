@@ -1,0 +1,33 @@
+
+Capacity Utilization – B / A
+
+Availability – C / B
+
+Performance – { (Volume produced Good + Rejection Volume) x 1000/ Speed}/ C
+
+Quality – Volume produced good/( Vol produced good + Volume rejected)
+
+OEE	= AR*PR*QR
+
+Standard Manpower productivity = (Loading Time X Speed) / Std. Manpower    
+
+Actual Manpower Productivity = Actual Production / Actual Manpower Deployed 
+
+For Machine Productivity at 80%:
+Target Production = Speed x Loading Time x 80% 
+Machine Productivity at 80% = {(Actual Production/Target Production) x 100}%
+
+Man –Power Deployment
+Then % of Man-power productivity level = Actual Manpower Productivity / Standard Manpower Productivity.
+ This implies, if % of manpower productivity level is >100% whereas Manpower deployment is<100%, then it will be good for factory. 
+
+Calculated Value Operating Time
+(Volume Produced Good+ Reject)*1000/Design Speed
+Un-Accounted Time = Value Operating Time – Calculated Value Operating Time
+
+Mean Time between Failure
+(Loading Time – Down time Loss)/ Number of Equipment Breakdown
+
+Mean Time to Repair
+Sum of Time stops for failure / Number of Equipment Breakdown
+
