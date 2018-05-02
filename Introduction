@@ -1,0 +1,20 @@
+Overall Equipment Effectiveness is a key measure focused on equipment and process reliability improvement. It is a measure of how well we are capable of using our Production Equipment when we want them to operate (excludes planned down time). OEE is the product of three effective factors Availability, Performance and Quality and can also be expressed as Valuable Operating Time / Available Time, in percent.
+
+Production & Loss Time(s):
+•	Total Time(A) comprises of:
+o	Planned Downtime and Loading Time (B). B comprises of:
+	Unplanned Downtime and Operating Time (C). C comprises of:
+•	Speed Loss and Net Operating Time (D). D comprises of:
+o	Quality loss and Valuable Operating Time(E).
+Availability:
+This is the availability rate i.e. period of time the equipment was available for unit production. 
+Availability Rate = C/B
+Performance:
+This the performance/ efficiency rate measure used to calculate overall equipment effectiveness. A comparison of the speed/actual output with what the system could be consistently producing in the same timeframe.
+Performance Rate  = D/C		OR
+{(Volume non defective parts+ Defective Parts) x 1000 / Speed} / C
+Quality:
+This is the quality/yield rate measure used to calculate overall equipment effectiveness. A comparison of the raw materials (or occurrences put in to the process and the number of products /services that meet the customer’s specifications.
+Quality Rate = E/D		OR
+Non Defective parts volume /( Non defective parts volume + Defective parts volume)
+
