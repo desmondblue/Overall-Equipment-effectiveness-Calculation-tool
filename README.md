@@ -1,5 +1,5 @@
 # Overall-Equipment-effectiveness-Calculation-tool
-The software calculates Overall Equipment Effectiveness Score
+The software calculates Overall Equipment Effectiveness Score.
 Overall equipment effectiveness calculation tool is basically the implementation of the concept of Overall Equipment Effectiveness.
 Overall equipment effectiveness focuses on performance, availability and yield. Whether you choose to use Overall Equipment effectiveness for machines, stations, lines or all three, it's one of those brilliant basic tools that can help you improve production short and long term. Overall Equipment Effectiveness helps maximize throughput efficiency and in doing so, it distills complex production data into simple understandable metrics that provide a gauge for measuring true manufacturing efficiency. Overall Equipment Effectiveness should be based on data for at least a week, and ideally, a month to wipe out the effects of product mix. Any project utilizing Overall Equipment Effectiveness Score which will be calculated by the project must have a pilot area (area of implementation), constraint (the bottleneck step),
 Data for OEE (good count, ideal cycle time etc) and Detailed Loss data (Stop time, stop reasons etc). The point of using OEE is to drive system improvement; Sustained improvement requires a dedicated approach.
